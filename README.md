@@ -93,7 +93,6 @@ El maestro favorito de tu maestro favorito
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayoCara32&layout=compact&theme=tokyonight" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MayoCara32=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
