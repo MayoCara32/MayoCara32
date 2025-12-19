@@ -92,7 +92,7 @@ Soy el maestro favorito de tu maestro favorito
 ## 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayoCara32&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -118,7 +118,7 @@ Soy el maestro favorito de tu maestro favorito
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <img src="https://static.wikia.nocookie.net/kenganashura/images/d/d5/The_Worm_insignia.png/revision/latest?cb=20190919222150" width="300"/>
 </p>
 
 <p align="center">
