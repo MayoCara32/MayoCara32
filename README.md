@@ -110,7 +110,7 @@ Soy el maestro favorito de tu maestro favorito
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIrwiTzN91GMcWddMN_gaIaJmOfEgfRt6vg&s" width="300"/>
 </p>
 
 <p align="center">
