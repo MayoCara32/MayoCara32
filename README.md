@@ -1,9 +1,6 @@
-
-[![Spotify](https://novatorem-13tb.vercel.app/api/spotify)](https://open.spotify.com/user/mayocara32)
 <h1 align="center">👋 Hola, soy Mayo</h1>
 
 <h3 align="center">
-
 Soy el maestro favorito de tu maestro favorito
 </h3>
 
@@ -21,7 +18,7 @@ Soy el maestro favorito de tu maestro favorito
 - Cursos en línea  
 - Asesorías personalizadas  
 
-💡 Mi enfoque es **enseñar programación aplicada a la ingeniería**, desde lo básico hasta proyectos reales con hardware, control y desarrollo web.
+💡 Mi enfoque es **enseñar programación aplicada a la ingeniería**, desde fundamentos hasta proyectos reales con hardware, control y desarrollo web.
 
 ---
 
@@ -31,8 +28,8 @@ Soy el maestro favorito de tu maestro favorito
 - 🤖 Desarrollo proyectos de **electrónica y sistemas embebidos**
 - 📊 Modelado, simulación y control en **MATLAB**
 - 🌐 Desarrollo web aplicado a ingeniería
-- 📚 Creo **material didáctico** para estudiantes
-- 🔬 Trabajo en proyectos de **investigación**
+- 📚 Creo **material didáctico**
+- 🔬 Investigación técnica
 
 ---
 
@@ -95,26 +92,35 @@ Soy el maestro favorito de tu maestro favorito
 ## 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayoCara32&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎧 Ahora sonando en Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/mayocara32">
+    <img src="https://novatorem-13tb.vercel.app/api/spotify" />
+  </a>
 </p>
 
 ---
 
 ## 📬 Contacto
 
-📧 **Correo:**  
+📧 **Correo**  
 `mayocara32@gmail.com`
 
-📸 **Instagram:**  
+📸 **Instagram**  
 [@shura_demon](https://instagram.com/shura_demon)
 
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIrwiTzN91GMcWddMN_gaIaJmOfEgfRt6vg&s" width="300"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
   <i>Si eres estudiante, docente o ingeniero curioso, este repo también es para ti.</i>
 </p>
-
