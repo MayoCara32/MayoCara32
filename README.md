@@ -1,9 +1,9 @@
 
-
+[![Spotify](https://novatorem-13tb.vercel.app/api/spotify)](https://open.spotify.com/user/mayocara32)
 <h1 align="center">👋 Hola, soy Mayo</h1>
 
 <h3 align="center">
-[![Spotify](https://novatorem-13tb.vercel.app/api/spotify)](https://open.spotify.com/user/mayocara32)
+
 Soy el maestro favorito de tu maestro favorito
 </h3>
 
