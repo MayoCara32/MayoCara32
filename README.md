@@ -94,7 +94,7 @@ Soy el maestro favorito de tu maestro favorito
 ## 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayoCara32&layout=compact&theme=tokyonight" />
 </p>
 
 ---
