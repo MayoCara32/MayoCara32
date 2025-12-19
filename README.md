@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Mayo</h1>
 
 <h3 align="center">
-Soy el maestro favorito de tu maestro favorito
+El maestro favorito de tu maestro favorito
 </h3>
 
 <p align="center">
